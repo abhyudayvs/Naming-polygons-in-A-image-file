@@ -1,0 +1,3 @@
+Square: Centroid at (89, 432)
+Triangle: Centroid at (458, 474)
+Hexagon: Centroid at (145, 151)
